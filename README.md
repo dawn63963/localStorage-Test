@@ -5,4 +5,4 @@
 兼容：<br />
 Feature&emsp;&emsp;&emsp;&emsp;Chrome&emsp;&emsp;Firefox (Gecko)&emsp;&emsp;Internet Explorer&emsp;&emsp;Opera&emsp;&emsp;Safari (WebKit)<br />
 localStorage&emsp;&emsp;&emsp; 4&emsp;&emsp;&emsp;&emsp;&emsp;3.5&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10.50&emsp;&emsp;&emsp;&emsp;4<br />
-sessionStorage&emsp;&emsp;5&emsp;&emsp;&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10.50&emsp;&emsp;&emsp;4<br />
+sessionStorage&emsp;&emsp;5&emsp;&emsp;&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10.50&emsp;&emsp;&emsp;4<br />
